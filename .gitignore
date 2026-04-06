@@ -1,0 +1,8 @@
+node_modules/
+frames/
+*.gif
+js/
+utils/
+libs/
+curves/
+debug.png
